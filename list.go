@@ -9,7 +9,7 @@ import (
 
 	"github.com/gammazero/workerpool"
 
-	"github.com/longhorn/backupstore/util"
+	"github.com/mantissahz/backupstore/util"
 )
 
 const jobQueueTimeout = time.Minute

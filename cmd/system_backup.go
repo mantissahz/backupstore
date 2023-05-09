@@ -8,8 +8,8 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 
-	"github.com/longhorn/backupstore/systembackup"
-	"github.com/longhorn/backupstore/util"
+	"github.com/mantissahz/backupstore/systembackup"
+	"github.com/mantissahz/backupstore/util"
 )
 
 func SystemBackupUploadCmd() cli.Command {

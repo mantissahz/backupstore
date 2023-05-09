@@ -4,7 +4,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 
-	"github.com/longhorn/backupstore"
+	"github.com/mantissahz/backupstore"
 )
 
 func BackupCleanupAllMountsCmd() cli.Command {

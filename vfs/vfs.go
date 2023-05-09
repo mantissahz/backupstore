@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"path/filepath"
 
-	"github.com/longhorn/backupstore"
-	"github.com/longhorn/backupstore/fsops"
+	"github.com/mantissahz/backupstore"
+	"github.com/mantissahz/backupstore/fsops"
 	"github.com/sirupsen/logrus"
 )
 

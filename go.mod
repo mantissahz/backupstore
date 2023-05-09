@@ -1,4 +1,4 @@
-module github.com/longhorn/backupstore
+module github.com/mantissahz/backupstore
 
 go 1.17
 

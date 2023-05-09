@@ -5,7 +5,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	. "github.com/longhorn/backupstore/logging"
+	. "github.com/mantissahz/backupstore/logging"
 )
 
 func InspectVolume(volumeURL string) (*VolumeInfo, error) {

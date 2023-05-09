@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/longhorn/backupstore/util"
+	"github.com/mantissahz/backupstore/util"
 	"github.com/pkg/errors"
 )
 
