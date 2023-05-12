@@ -6,8 +6,8 @@ import (
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 
-	. "github.com/longhorn/backupstore/logging"
-	"github.com/longhorn/backupstore/util"
+	. "github.com/mantissahz/backupstore/logging"
+	"github.com/mantissahz/backupstore/util"
 )
 
 const (

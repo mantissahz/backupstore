@@ -15,9 +15,9 @@ import (
 
 	. "gopkg.in/check.v1"
 
-	"github.com/longhorn/backupstore"
-	_ "github.com/longhorn/backupstore/nfs"
-	"github.com/longhorn/backupstore/util"
+	"github.com/mantissahz/backupstore"
+	_ "github.com/mantissahz/backupstore/nfs"
+	"github.com/mantissahz/backupstore/util"
 )
 
 const (

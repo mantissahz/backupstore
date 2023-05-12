@@ -13,15 +13,15 @@ import (
 
 	mount "k8s.io/mount-utils"
 
-	"github.com/longhorn/backupstore"
-	"github.com/longhorn/backupstore/fsops"
-	"github.com/longhorn/backupstore/util"
+	"github.com/mantissahz/backupstore"
+	"github.com/mantissahz/backupstore/fsops"
+	"github.com/mantissahz/backupstore/util"
 )
 
 var (
 	log = logrus.WithFields(logrus.Fields{"pkg": "cifs"})
 
-	// Ref: https://github.com/longhorn/backupstore/pull/91
+	// Ref: https://github.com/mantissahz/backupstore/pull/91
 	defaultMountInterval = 1 * time.Second
 	defaultMountTimeout  = 5 * time.Second
 )

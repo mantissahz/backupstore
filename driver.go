@@ -8,7 +8,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	. "github.com/longhorn/backupstore/logging"
+	. "github.com/mantissahz/backupstore/logging"
 )
 
 type InitFunc func(destURL string) (BackupStoreDriver, error)

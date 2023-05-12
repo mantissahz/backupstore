@@ -1,4 +1,4 @@
-# Backupstore [![Build Status](https://drone-publish.longhorn.io/api/badges/longhorn/backupstore/status.svg)](https://drone-publish.longhorn.io/longhorn/backupstore)
+# Backupstore [![Build Status](https://drone-publish.longhorn.io/api/badges/mantissahz/backupstore/status.svg)](https://drone-publish.longhorn.io/mantissahz/backupstore)
 ## Build
 
 Run `make`.

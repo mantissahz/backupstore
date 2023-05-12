@@ -9,8 +9,8 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
 
-	"github.com/longhorn/backupstore"
-	"github.com/longhorn/backupstore/util"
+	"github.com/mantissahz/backupstore"
+	"github.com/mantissahz/backupstore/util"
 )
 
 func BackupListCmd() cli.Command {

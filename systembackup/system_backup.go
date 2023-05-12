@@ -10,8 +10,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/longhorn/backupstore"
-	"github.com/longhorn/backupstore/util"
+	"github.com/mantissahz/backupstore"
+	"github.com/mantissahz/backupstore/util"
 )
 
 var (

@@ -11,7 +11,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/longhorn/backupstore"
+	"github.com/mantissahz/backupstore"
 )
 
 var (

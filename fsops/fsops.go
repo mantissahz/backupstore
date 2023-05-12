@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/longhorn/backupstore"
-	"github.com/longhorn/backupstore/util"
+	"github.com/mantissahz/backupstore"
+	"github.com/mantissahz/backupstore/util"
 )
 
 const (
